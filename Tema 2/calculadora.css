@@ -1,0 +1,32 @@
+	.color1{
+		background-color: #5882FA;
+		color: #FFFFFF;
+		border-color:#FFFFFF; 
+		width: 100%;
+		border-radius: 7px;
+	}
+	.color2{
+		background-color: #3BF704;
+		color: #FFFFFF;
+		border-color:#FFFFFF; 
+		width: 100%;
+		border-radius: 7px;
+	}
+	.color3{
+		background-color: #FFF700;
+		color: #FFFFFF;
+		border-color:#FFFFFF; 
+		width: 100%;
+		border-radius: 7px;
+	}
+	.color4{
+		background-color: #FF2300;
+		color: #FFFFFF;
+		border-color:#FFFFFF; 
+		width: 100%;
+		border-radius: 7px;
+	}
+	.color5{
+		width: 100%;
+		border-radius: 7px;
+	}
